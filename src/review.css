@@ -1,0 +1,17 @@
+.card{
+text-align: center;
+display: flex;
+  align-items: center;
+ 
+  background-color: #fff;
+}
+.card>div>img{
+  object-fit: cover;
+}
+.card>div>p{
+  background-color: #fff;
+}
+.card>div>h3{
+  background-color: #fff;
+  color: rgb(55, 32, 109);
+}
